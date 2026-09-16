@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à EAS : schémas, attestations, révocation, résolveurs, délégation et indexation. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # Ethereum Attestation Service
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://eas.eth.link)
